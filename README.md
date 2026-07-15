@@ -12,6 +12,10 @@ A production-grade CLI tool that **automatically organizes messy folders** into 
 - **Undo Support** — Revert the last organization operation
 - **Rich CLI** — Colored tables, progress bars, and summary dashboards
 
+## 💡 Why Smart File Organizer?
+
+Managing a cluttered Downloads folder can be frustrating. Smart File Organizer automates the process by sorting files into meaningful categories while keeping every operation safe through dry-run previews and undo support.
+
 ## Installation
 
 ```bash
